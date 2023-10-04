@@ -51,17 +51,25 @@ response = requests.post(url=f'{url}/sdapi/v1/options', json=option_payload)
 
 seed = 6692921564
 
-repo = git.Repo(path_to_your_repo)  # ex. "/User/some_user/some_dir"
+repo = git.Repo()  # ex. "/User/some_user/some_dir"
 origin = repo.remote("origin")  
 assert origin.exists()
 origin.fetch()
 
+new_branch = repo.create_head("main", origin.refs.main)  # replace prod with master/ main/ whatever you named your main branch
+new_branch.checkout()
+
+
 f = open("Prompts.txt", "a")
 f.write("StableDiffusion Prompts\n")
+f.close()
+
 
 #ipcs = [281, 811]
 #for j in ipcs:
 for row in rows:
+
+    f = open("Prompts.txt", "a")
 
     #row = rows[j-1]
     id = row[0]
@@ -109,7 +117,7 @@ for row in rows:
     f.write("\n"+ str(promptString))
     f.write("\nseed : "+ str(seed))
     
-    if(os.path.isfile("trial02/"+str(id)+'.png')):
+    if(os.path.isfile("Output/"+str(id)+'.png')):
         print("Skipped " +str(id))
         continue
 
@@ -143,13 +151,20 @@ for row in rows:
 
         pnginfo = PngImagePlugin.PngInfo()
         pnginfo.add_text("parameters", response2.json().get("info"))
-        image.save("trial02/"+str(id)+'.png', pnginfo=pnginfo)
+        image.save("Output/"+str(id)+'.png', pnginfo=pnginfo)
 
     print("   -----------------")
 
+    f.close()
+
+    repo.git.add('--all')
+    repo.index.commit(str(id))
+
+    repo.git.push("--set-upstream", origin, repo.head.ref)
+
     time.sleep(30)
 
-f.close()
+
 
    
 
