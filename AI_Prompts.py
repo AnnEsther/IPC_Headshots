@@ -6,6 +6,8 @@ from PIL import Image, PngImagePlugin
 import psycopg2
 import time
 import os
+import git
+
 
 def getString(stat, value):
   percent = 100 * value/18
@@ -48,6 +50,11 @@ option_payload = {
 response = requests.post(url=f'{url}/sdapi/v1/options', json=option_payload)
 
 seed = 6692921564
+
+repo = git.Repo(path_to_your_repo)  # ex. "/User/some_user/some_dir"
+origin = repo.remote("origin")  
+assert origin.exists()
+origin.fetch()
 
 f = open("Prompts.txt", "a")
 f.write("StableDiffusion Prompts\n")
