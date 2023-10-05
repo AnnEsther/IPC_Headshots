@@ -24752,3 +24752,7 @@ seed : 6692882064
 IPC 1123
 cinematic picture , clothed  , Pale skin , Red hair , Elf born on 2018, subrace Wood Elf , Female , height 6'2" , Orange eyes , Right handed , high strength , low force , low sustain , medium tolerance , high dexterity , medium speed , low precision , trivial reaction , high intelligence , medium memory , trivial processing , medium reasoning , medium constitution , trivial healing , trivial fortitude , low vitality , concerning luck
 seed : 6692881964
+=======================
+IPC 1124
+cinematic picture , clothed  , Light Brown skin , Blonde hair , Dwarf born on 2018, subrace Lumber Dwarf , Female , height 4'2" , Amber eyes , Right handed , concerning strength , low force , low sustain , trivial tolerance , medium dexterity , trivial speed , trivial precision , low reaction , medium intelligence , low memory , trivial processing , trivial reasoning , high constitution , low healing , low fortitude , low vitality , high luck
+seed : 6692881864
