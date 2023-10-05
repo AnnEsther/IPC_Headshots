@@ -25148,3 +25148,7 @@ seed : 6692872164
 IPC 1222
 cinematic picture , clothed  , Brown skin , Red hair , Human born on 2018, subrace Coastal Human , Female , height 5'0" , Blue eyes , Left handed , high strength , low force , medium sustain , low tolerance , high dexterity , low speed , medium precision , low reaction , low intelligence , trivial memory , trivial processing , trivial reasoning , concerning constitution , trivial healing , low fortitude , medium vitality , concerning luck
 seed : 6692872064
+=======================
+IPC 1223
+cinematic picture , clothed  , White skin , Black hair , Human born on 2018, subrace Mythical Human , Male , height 5'9" , Red eyes , Right handed , concerning strength , trivial force , low sustain , low tolerance , high dexterity , medium speed , low precision , low reaction , high intelligence , low memory , trivial processing , medium reasoning , medium constitution , trivial healing , low fortitude , trivial vitality , concerning luck
+seed : 6692871964
