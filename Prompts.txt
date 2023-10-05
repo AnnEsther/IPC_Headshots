@@ -26260,3 +26260,7 @@ seed : 6692844364
 IPC 1500
 cinematic picture , clothed  , Beige skin , White hair , Human born on 2018, subrace Eastern Human , Female , height 5'5" , Brown eyes , Left handed , high strength , low force , low sustain , low tolerance , high dexterity , low speed , low precision , low reaction , high intelligence , low memory , trivial processing , medium reasoning , low constitution , trivial healing , trivial fortitude , trivial vitality , concerning luck
 seed : 6692844264
+=======================
+IPC 1501
+cinematic picture , clothed  , Beige skin , Brown hair , Elf born on 2018, subrace High Elf , Female , height 6'1" , Green eyes , Right handed , concerning strength , trivial force , low sustain , low tolerance , concerning dexterity , low speed , trivial precision , low reaction , concerning intelligence , low memory , low processing , trivial reasoning , concerning constitution , medium healing , trivial fortitude , low vitality , concerning luck
+seed : 6692844164
