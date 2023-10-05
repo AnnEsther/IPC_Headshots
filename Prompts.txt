@@ -23376,3 +23376,7 @@ seed : 6692916264
 IPC 779
 cinematic picture , clothed  , White skin , Black hair , Orc born on 2018, subrace Ash Orc , Female , height 6'1" , Black eyes , Right handed , medium strength , trivial force , trivial sustain , low tolerance , concerning dexterity , low speed , medium precision , trivial reaction , medium intelligence , trivial memory , trivial processing , low reasoning , concerning constitution , trivial healing , medium fortitude , low vitality , high luck
 seed : 6692916164
+=======================
+IPC 780
+cinematic picture , clothed  , Light Brown skin , Brown hair , Elf born on 2018, subrace Sun Elf , Female , height 6'2" , Gold eyes , Right handed , medium strength , low force , trivial sustain , trivial tolerance , high dexterity , low speed , low precision , low reaction , low intelligence , trivial memory , trivial processing , low reasoning , medium constitution , trivial healing , low fortitude , low vitality , high luck
+seed : 6692916064
