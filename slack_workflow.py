@@ -12,4 +12,4 @@ def sendMessageToSlack(ipc):
     x = requests.post(URL, json = myobj)
     print(x.text)
 
-#sendMessageToSlack(1565)
+#sendMessageToSlack(1565) 
