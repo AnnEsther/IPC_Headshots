@@ -26300,3 +26300,7 @@ seed : 6692843364
 IPC 1510
 cinematic picture , clothed  , Pale skin , Brown hair , Orc born on 2018, subrace Sand Orc , Male , height 6'7" , Gold eyes , Right handed , medium strength , trivial force , low sustain , trivial tolerance , high dexterity , low speed , low precision , low reaction , concerning intelligence , medium memory , low processing , trivial reasoning , high constitution , low healing , low fortitude , low vitality , concerning luck
 seed : 6692843264
+=======================
+IPC 1511
+cinematic picture , clothed  , Forest Green skin , Black hair , Orc born on 2018, subrace Plains Orc , Male , height 7'0" , Black eyes , Right handed , high strength , low force , low sustain , low tolerance , high dexterity , trivial speed , low precision , low reaction , concerning intelligence , low memory , trivial processing , low reasoning , medium constitution , low healing , trivial fortitude , trivial vitality , concerning luck
+seed : 6692843164
