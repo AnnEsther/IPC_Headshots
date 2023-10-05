@@ -17294,3 +17294,7 @@ seed : 6692917864
 IPC 708
 cinematic picture , clothed  , Beige skin , Brown hair , Dwarf born on 2018, subrace Mountain Dwarf , Female , height 4'4" , Green eyes , Right handed , high strength , low force , trivial sustain , low tolerance , critical dexterity , low speed , low precision , medium reaction , critical intelligence , low memory , low processing , medium reasoning , medium constitution , trivial healing , trivial fortitude , low vitality , concerning luck
 seed : 6692917764
+=======================
+IPC 709
+cinematic picture , clothed  , White skin , Black hair , Human born on 2018, subrace Mythical Human , Female , height 5'3" , Red eyes , Right handed , medium strength , low force , trivial sustain , trivial tolerance , high dexterity , low speed , low precision , medium reaction , high intelligence , low memory , low processing , low reasoning , concerning constitution , medium healing , low fortitude , trivial vitality , concerning luck
+seed : 6692917664
