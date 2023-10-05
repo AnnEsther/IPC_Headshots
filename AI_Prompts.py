@@ -171,7 +171,7 @@ for row in rows:
 
     repo.git.push("--set-upstream", origin, repo.head.ref)
 
-    slack_workflow.sendMessageToSlack(str(id))
+    slack_workflow.sendMessageToSlack(id)
 
     #time.sleep(30)
 
