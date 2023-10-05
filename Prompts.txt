@@ -25968,3 +25968,7 @@ seed : 6692851664
 IPC 1427
 cinematic picture , clothed  , White skin , Black hair , Orc born on 2018, subrace Ash Orc , Male , height 7'1" , Black eyes , Right handed , low strength , trivial force , trivial sustain , low tolerance , medium dexterity , medium speed , trivial precision , trivial reaction , medium intelligence , low memory , trivial processing , trivial reasoning , concerning constitution , medium healing , trivial fortitude , trivial vitality , high luck
 seed : 6692851564
+=======================
+IPC 1428
+cinematic picture , clothed  , Grey skin , Dark Brown hair , Dwarf born on 2018, subrace Hill Dwarf , Male , height 4'2" , Amber eyes , Right handed , high strength , low force , low sustain , low tolerance , concerning dexterity , trivial speed , low precision , low reaction , critical intelligence , low memory , medium processing , medium reasoning , concerning constitution , low healing , medium fortitude , trivial vitality , concerning luck
+seed : 6692851464
