@@ -23180,3 +23180,7 @@ seed : 6692921164
 IPC 730
 cinematic picture , clothed  , Brown skin , Red hair , Human born on 2018, subrace Coastal Human , Male , height 5'4" , Green eyes , Right handed , concerning strength , low force , low sustain , trivial tolerance , high dexterity , medium speed , trivial precision , medium reaction , high intelligence , medium memory , low processing , trivial reasoning , medium constitution , trivial healing , low fortitude , trivial vitality , concerning luck
 seed : 6692921064
+=======================
+IPC 731
+cinematic picture , clothed  , Brown skin , Blonde hair , Human born on 2018, subrace Coastal Human , Female , height 5'4" , Green eyes , Right handed , medium strength , trivial force , low sustain , trivial tolerance , concerning dexterity , low speed , trivial precision , low reaction , medium intelligence , trivial memory , low processing , trivial reasoning , concerning constitution , low healing , trivial fortitude , low vitality , high luck
+seed : 6692920964
