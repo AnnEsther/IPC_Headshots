@@ -24176,3 +24176,7 @@ seed : 6692896464
 IPC 979
 cinematic picture , clothed  , Dark Yellow skin , Black hair , Orc born on 2018, subrace Sand Orc , Male , height 6'9" , Black eyes , Left handed , concerning strength , trivial force , low sustain , medium tolerance , concerning dexterity , medium speed , trivial precision , low reaction , high intelligence , low memory , low processing , low reasoning , medium constitution , low healing , trivial fortitude , low vitality , concerning luck
 seed : 6692896364
+=======================
+IPC 980
+cinematic picture , clothed  , Grey skin , Black hair , Dwarf born on 2018, subrace Hill Dwarf , Male , height 4'3" , Black eyes , Left handed , high strength , low force , low sustain , low tolerance , high dexterity , trivial speed , low precision , medium reaction , medium intelligence , low memory , trivial processing , trivial reasoning , high constitution , low healing , low fortitude , low vitality , concerning luck
+seed : 6692896264
