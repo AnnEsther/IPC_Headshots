@@ -5,13 +5,12 @@ def getProgress(ipc):
 
     while x <= round(perc):
         result = result + "█"
-        x = x+1
+        x = x+2
 
     while x <= 100:
         result = result + "▁"
-        x = x+1
+        x = x+2
 
     print(result)
 
-#sendMessageToSlack(1565) 
-getProgress(1596)
+#getProgress(1596)
