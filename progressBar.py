@@ -8,7 +8,7 @@ def getProgress(ipc):
     for x in range(round(perc),100):
         result = result + "▁"
 
-    print(x)
+    print(result)
 
 #sendMessageToSlack(1565) 
 getProgress(13)
