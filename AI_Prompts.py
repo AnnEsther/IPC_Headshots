@@ -25,6 +25,19 @@ def getString(stat, value):
       tempStr = "critical"
   return tempStr + " " + stat
 
+URL = 'https://hooks.slack.com/triggers/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'
+
+
+def sendMessageToSlack(ipc):
+    myobj = {
+        "message": "Generated " +ipc+ "\nhttps://github.com/AnnEsther/IPC_Headshots/blob/main/Output/"+str(ipc)+".png",
+        "ipc": ipc
+    }
+    x = requests.post(URL, json = myobj)
+    print(x.text)
+
+
+
 conn = psycopg2.connect(database = "postgres", 
                         user = "postgres", 
                         host= 'localhost',
@@ -161,6 +174,8 @@ for row in rows:
     repo.index.commit("Generated IPC " +str(id)+" LINK : https://github.com/AnnEsther/IPC_Headshots/blob/main/Output/"+str(id)+".png")
 
     repo.git.push("--set-upstream", origin, repo.head.ref)
+
+    sendMessageToSlack(str(id))
 
     time.sleep(30)
 
