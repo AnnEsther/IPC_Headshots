@@ -23956,3 +23956,7 @@ seed : 6692901964
 IPC 924
 cinematic picture , clothed  , Beige skin , Brown hair , Dwarf born on 2018, subrace Mountain Dwarf , Male , height 4'5" , Brown eyes , Right handed , high strength , medium force , low sustain , trivial tolerance , medium dexterity , trivial speed , trivial precision , low reaction , high intelligence , low memory , low processing , low reasoning , concerning constitution , trivial healing , medium fortitude , trivial vitality , concerning luck
 seed : 6692901864
+=======================
+IPC 925
+cinematic picture , clothed  , Beige skin , Dark Brown hair , Dwarf born on 2018, subrace Mountain Dwarf , Female , height 4'2" , Blue eyes , Right handed , medium strength , low force , trivial sustain , trivial tolerance , high dexterity , low speed , low precision , low reaction , medium intelligence , low memory , trivial processing , low reasoning , concerning constitution , trivial healing , low fortitude , low vitality , high luck
+seed : 6692901764
