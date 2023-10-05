@@ -24036,3 +24036,7 @@ seed : 6692899964
 IPC 944
 cinematic picture , clothed  , Golden skin , Brown hair , Elf born on 2018, subrace Wood Elf , Female , height 6'2" , Green eyes , Right handed , low strength , trivial force , trivial sustain , trivial tolerance , medium dexterity , low speed , low precision , trivial reaction , concerning intelligence , low memory , trivial processing , low reasoning , high constitution , low healing , trivial fortitude , low vitality , high luck
 seed : 6692899864
+=======================
+IPC 945
+cinematic picture , clothed  , Dark Blue-Green skin , Black hair , Orc born on 2018, subrace Swamp Orc , Male , height 6'7" , Gold eyes , Right handed , medium strength , trivial force , low sustain , trivial tolerance , concerning dexterity , trivial speed , medium precision , trivial reaction , high intelligence , low memory , medium processing , trivial reasoning , concerning constitution , low healing , low fortitude , trivial vitality , high luck
+seed : 6692899764
