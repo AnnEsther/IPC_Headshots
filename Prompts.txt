@@ -17262,3 +17262,7 @@ seed : 6692918664
 IPC 700
 cinematic picture , clothed  , Marbled Black skin , Blonde hair , Dwarf born on 2018, subrace Quarry Dwarf , Female , height 4'0" , Amber eyes , Right handed , medium strength , low force , trivial sustain , trivial tolerance , medium dexterity , trivial speed , low precision , low reaction , medium intelligence , trivial memory , low processing , trivial reasoning , medium constitution , low healing , trivial fortitude , trivial vitality , high luck
 seed : 6692918564
+=======================
+IPC 701
+cinematic picture , clothed  , White skin , Black hair , Human born on 2018, subrace Mythical Human , Male , height 5'9" , Red eyes , Left handed , concerning strength , low force , low sustain , low tolerance , high dexterity , medium speed , trivial precision , low reaction , high intelligence , medium memory , trivial processing , low reasoning , critical constitution , low healing , medium fortitude , low vitality , concerning luck
+seed : 6692918464
