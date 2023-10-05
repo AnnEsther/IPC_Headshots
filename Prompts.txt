@@ -17206,3 +17206,7 @@ seed : 6692920064
 IPC 686
 cinematic picture , clothed  , Beige skin , Grey hair , Human born on 2018, subrace Eastern Human , Female , height 5'4" , Amber eyes , Left handed , critical strength , low force , low sustain , low tolerance , low dexterity , trivial speed , trivial precision , trivial reaction , concerning intelligence , low memory , low processing , low reasoning , high constitution , medium healing , trivial fortitude , low vitality , concerning luck
 seed : 6692919964
+=======================
+IPC 687
+cinematic picture , clothed  , Brown skin , Brown hair , Dwarf born on 2018, subrace Hill Dwarf , Male , height 4'4" , Amber eyes , Right handed , high strength , low force , medium sustain , trivial tolerance , critical dexterity , low speed , medium precision , medium reaction , concerning intelligence , trivial memory , trivial processing , low reasoning , concerning constitution , low healing , low fortitude , trivial vitality , concerning luck
+seed : 6692919864
