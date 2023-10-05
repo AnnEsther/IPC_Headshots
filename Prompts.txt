@@ -17322,3 +17322,7 @@ seed : 6692917164
 IPC 715
 cinematic picture , clothed  , Brown skin , Black hair , Human born on 2018, subrace Coastal Human , Male , height 5'10" , Green eyes , Right handed , high strength , low force , low sustain , low tolerance , concerning dexterity , medium speed , trivial precision , low reaction , medium intelligence , low memory , trivial processing , trivial reasoning , concerning constitution , low healing , low fortitude , trivial vitality , concerning luck
 seed : 6692917064
+=======================
+IPC 716
+cinematic picture , clothed  , Grey skin , Brown hair , Dwarf born on 2018, subrace Hill Dwarf , Male , height 4'5" , Black eyes , Right handed , concerning strength , low force , low sustain , trivial tolerance , high dexterity , medium speed , low precision , low reaction , critical intelligence , low memory , medium processing , low reasoning , concerning constitution , trivial healing , low fortitude , medium vitality , concerning luck
+seed : 6692916964
