@@ -9047,3 +9047,7 @@ seed : 6692918464
 IPC 596
 cinematic picture , clothed  , Dark Yellow skin , Black hair , Orc born on 2018, subrace Sand Orc , Female , height 5'11" , Gold eyes , Left handed , high strength , low force , low sustain , low tolerance , concerning dexterity , low speed , trivial precision , low reaction , high intelligence , low memory , trivial processing , medium reasoning , medium constitution , trivial healing , trivial fortitude , low vitality , concerning luck
 seed : 6692918364
+=======================
+IPC 597
+cinematic picture , clothed  , Golden skin , Brown hair , Elf born on 2018, subrace Wood Elf , Female , height 6'1" , Green eyes , Left handed , critical strength , medium force , medium sustain , low tolerance , concerning dexterity , low speed , trivial precision , medium reaction , medium intelligence , low memory , trivial processing , trivial reasoning , concerning constitution , low healing , low fortitude , trivial vitality , concerning luck
+seed : 6692918264
