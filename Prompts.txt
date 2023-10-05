@@ -24608,3 +24608,7 @@ seed : 6692885664
 IPC 1087
 cinematic picture , clothed  , Black skin , Blue-Black hair , Dwarf born on 2018, subrace Volcano Dwarf , Male , height 4'4" , Purple eyes , Right handed , concerning strength , low force , low sustain , trivial tolerance , high dexterity , trivial speed , medium precision , low reaction , concerning intelligence , low memory , low processing , trivial reasoning , high constitution , low healing , low fortitude , medium vitality , concerning luck
 seed : 6692885564
+=======================
+IPC 1088
+cinematic picture , clothed  , Yellow skin , Brown hair , Orc born on 2018, subrace Sand Orc , Male , height 6'7" , Gold eyes , Right handed , critical strength , medium force , medium sustain , low tolerance , medium dexterity , low speed , trivial precision , low reaction , high intelligence , low memory , medium processing , low reasoning , high constitution , low healing , low fortitude , low vitality , concerning luck
+seed : 6692885464
