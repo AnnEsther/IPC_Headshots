@@ -23424,3 +23424,7 @@ seed : 6692915064
 IPC 791
 cinematic picture , clothed  , Pale skin , Red hair , Elf born on 2018, subrace Wood Elf , Male , height 6'3" , Green eyes , Right handed , concerning strength , low force , low sustain , trivial tolerance , medium dexterity , low speed , trivial precision , trivial reaction , high intelligence , low memory , low processing , low reasoning , concerning constitution , low healing , low fortitude , low vitality , concerning luck
 seed : 6692914964
+=======================
+IPC 792
+cinematic picture , clothed  , Forest Green skin , Auburn hair , Orc born on 2018, subrace Swamp Orc , Male , height 6'7" , Brown eyes , Right handed , concerning strength , medium force , trivial sustain , trivial tolerance , concerning dexterity , low speed , trivial precision , low reaction , critical intelligence , low memory , medium processing , medium reasoning , high constitution , low healing , low fortitude , low vitality , concerning luck
+seed : 6692914864
