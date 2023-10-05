@@ -26176,3 +26176,7 @@ seed : 6692846464
 IPC 1479
 cinematic picture , clothed  , Pale skin , Red hair , Human born on 2018, subrace Nordic Human , Female , height 5'4" , Blue eyes , Right handed , medium strength , trivial force , low sustain , low tolerance , high dexterity , trivial speed , low precision , medium reaction , concerning intelligence , low memory , low processing , low reasoning , medium constitution , trivial healing , trivial fortitude , trivial vitality , high luck
 seed : 6692846364
+=======================
+IPC 1480
+cinematic picture , clothed  , Pale skin , Brown hair , Elf born on 2018, subrace Wood Elf , Female , height 6'0" , Green eyes , Left handed , concerning strength , medium force , trivial sustain , low tolerance , concerning dexterity , low speed , low precision , trivial reaction , concerning intelligence , trivial memory , trivial processing , medium reasoning , critical constitution , low healing , medium fortitude , low vitality , concerning luck
+seed : 6692846264
