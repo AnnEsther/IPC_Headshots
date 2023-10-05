@@ -24916,3 +24916,7 @@ seed : 6692877964
 IPC 1164
 cinematic picture , clothed  , Brown skin , Blonde hair , Human born on 2018, subrace Coastal Human , Male , height 6'2" , Brown eyes , Right handed , medium strength , trivial force , low sustain , low tolerance , concerning dexterity , trivial speed , low precision , medium reaction , concerning intelligence , trivial memory , low processing , trivial reasoning , high constitution , medium healing , low fortitude , low vitality , concerning luck
 seed : 6692877864
+=======================
+IPC 1165
+cinematic picture , clothed  , Blue-Grey skin , Dark Blue hair , Elf born on 2018, subrace Night Elf , Male , height 6'4" , Green eyes , Right handed , high strength , low force , low sustain , low tolerance , concerning dexterity , low speed , low precision , low reaction , critical intelligence , low memory , medium processing , low reasoning , medium constitution , medium healing , trivial fortitude , trivial vitality , concerning luck
+seed : 6692877764
