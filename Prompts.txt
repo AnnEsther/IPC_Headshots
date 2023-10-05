@@ -24920,3 +24920,7 @@ seed : 6692877864
 IPC 1165
 cinematic picture , clothed  , Blue-Grey skin , Dark Blue hair , Elf born on 2018, subrace Night Elf , Male , height 6'4" , Green eyes , Right handed , high strength , low force , low sustain , low tolerance , concerning dexterity , low speed , low precision , low reaction , critical intelligence , low memory , medium processing , low reasoning , medium constitution , medium healing , trivial fortitude , trivial vitality , concerning luck
 seed : 6692877764
+=======================
+IPC 1166
+cinematic picture , clothed  , White skin , Black hair , Human born on 2018, subrace Mythical Human , Female , height 5'4" , Red eyes , Right handed , medium strength , medium force , trivial sustain , trivial tolerance , concerning dexterity , low speed , low precision , trivial reaction , concerning intelligence , low memory , low processing , trivial reasoning , concerning constitution , medium healing , trivial fortitude , trivial vitality , high luck
+seed : 6692877664
