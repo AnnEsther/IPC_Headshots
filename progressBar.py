@@ -11,6 +11,6 @@ def getProgressBar(ipc):
         result = result + "▁"
         x = x+2
 
-    print(result)
+    return result
 
 #getProgress(1596)

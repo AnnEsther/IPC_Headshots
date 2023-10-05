@@ -8,7 +8,7 @@ def sendMessageToSlack(ipc):
     p = str(round(100*(ipc/12000),2))
     pBar = progressBar.getProgressBar(ipc)
     myobj = {
-        "message": "Generated " +str(ipc)+ "\nhttps://github.com/AnnEsther/IPC_Headshots/blob/main/Output/"+str(ipc)+".png\nCompleted : "+p+" % ",
+        "message": "Generated " +str(ipc)+ "\nhttps://github.com/AnnEsther/IPC_Headshots/blob/main/Output/"+str(ipc)+".png\n"+ pBar +" : "+p+" % ",
         "ipc": ipc
     }
     x = requests.post(URL, json = myobj)
