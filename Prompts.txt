@@ -9111,3 +9111,7 @@ seed : 6692916864
 IPC 612
 cinematic picture , clothed  , Brown skin , Red hair , Human born on 2018, subrace Coastal Human , Male , height 6'2" , Green eyes , Right handed , concerning strength , trivial force , medium sustain , low tolerance , medium dexterity , trivial speed , trivial precision , low reaction , high intelligence , low memory , low processing , trivial reasoning , concerning constitution , low healing , trivial fortitude , low vitality , concerning luck
 seed : 6692916764
+=======================
+IPC 613
+cinematic picture , clothed  , Red skin , White hair , Orc born on 2018, subrace Blood Orc , Male , height 6'10" , Amber eyes , Right handed , high strength , low force , low sustain , low tolerance , critical dexterity , low speed , low precision , medium reaction , concerning intelligence , low memory , trivial processing , low reasoning , high constitution , low healing , medium fortitude , low vitality , concerning luck
+seed : 6692916664
