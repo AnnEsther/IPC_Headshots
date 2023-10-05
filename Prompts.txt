@@ -9095,3 +9095,7 @@ seed : 6692917264
 IPC 608
 cinematic picture , clothed  , Pale skin , White hair , Human born on 2018, subrace Eastern Human , Male , height 5'11" , Black eyes , Right handed , concerning strength , medium force , trivial sustain , trivial tolerance , concerning dexterity , low speed , low precision , low reaction , medium intelligence , low memory , trivial processing , low reasoning , high constitution , trivial healing , low fortitude , medium vitality , high luck
 seed : 6692917164
+=======================
+IPC 609
+cinematic picture , clothed  , White skin , White hair , Orc born on 2018, subrace Ash Orc , Female , height 6'6" , Brown eyes , Right handed , high strength , medium force , low sustain , low tolerance , concerning dexterity , trivial speed , low precision , low reaction , medium intelligence , trivial memory , low processing , trivial reasoning , high constitution , low healing , medium fortitude , trivial vitality , concerning luck
+seed : 6692917064
