@@ -173,7 +173,7 @@ for row in rows:
 
     slack_workflow.sendMessageToSlack(str(id))
 
-    time.sleep(30)
+    #time.sleep(30)
 
 
 
