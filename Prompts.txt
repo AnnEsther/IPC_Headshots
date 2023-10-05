@@ -25052,3 +25052,7 @@ seed : 6692874564
 IPC 1198
 cinematic picture , clothed  , Black skin , White hair , Human born on 2018, subrace Southern Human , Male , height 6'0" , Black eyes , Right handed , low strength , trivial force , trivial sustain , low tolerance , medium dexterity , trivial speed , low precision , low reaction , high intelligence , medium memory , low processing , low reasoning , medium constitution , low healing , trivial fortitude , trivial vitality , high luck
 seed : 6692874464
+=======================
+IPC 1199
+cinematic picture , clothed  , Pale skin , Blonde hair , Human born on 2018, subrace Nordic Human , Male , height 5'8" , Icy eyes , Right handed , medium strength , trivial force , trivial sustain , low tolerance , critical dexterity , medium speed , low precision , low reaction , medium intelligence , low memory , trivial processing , trivial reasoning , concerning constitution , trivial healing , low fortitude , low vitality , concerning luck
+seed : 6692874364
