@@ -4381,3 +4381,7 @@ seed : 6692920264
 IPC 555
 cinematic picture , clothed  , Beige skin , Light Brown hair , Human born on 2018, subrace Nordic Human , Male , height 5'8" , Icy eyes , Right handed , concerning strength , trivial force , low sustain , low tolerance , concerning dexterity , low speed , trivial precision , medium reaction , high intelligence , medium memory , trivial processing , low reasoning , concerning constitution , low healing , low fortitude , low vitality , concerning luck
 seed : 6692920164
+=======================
+IPC 556
+cinematic picture , clothed  , Beige skin , Platinum hair , Human born on 2018, subrace Nordic Human , Female , height 5'1" , Icy eyes , Left handed , medium strength , trivial force , low sustain , trivial tolerance , medium dexterity , trivial speed , low precision , trivial reaction , critical intelligence , medium memory , low processing , medium reasoning , medium constitution , medium healing , trivial fortitude , trivial vitality , high luck
+seed : 6692920064
