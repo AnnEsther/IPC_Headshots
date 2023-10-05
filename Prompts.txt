@@ -11780,3 +11780,7 @@ seed : 6692921564
 IPC 640
 cinematic picture , clothed  , Dark Brown skin , Dark Brown hair , Dwarf born on 2018, subrace Hill Dwarf , Male , height 4'4" , Brown eyes , Right handed , critical strength , low force , medium sustain , medium tolerance , concerning dexterity , low speed , trivial precision , low reaction , concerning intelligence , medium memory , trivial processing , trivial reasoning , critical constitution , low healing , low fortitude , low vitality , concerning luck
 seed : 6692921564
+=======================
+IPC 641
+cinematic picture , clothed  , Beige skin , Blonde hair , Human born on 2018, subrace Coastal Human , Male , height 5'10" , Brown eyes , Right handed , concerning strength , trivial force , low sustain , low tolerance , concerning dexterity , low speed , trivial precision , low reaction , medium intelligence , low memory , trivial processing , trivial reasoning , high constitution , low healing , medium fortitude , trivial vitality , high luck
+seed : 6692921464
