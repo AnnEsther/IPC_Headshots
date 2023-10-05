@@ -23996,3 +23996,7 @@ seed : 6692900964
 IPC 934
 cinematic picture , clothed  , Blue-Green skin , Black hair , Orc born on 2018, subrace Swamp Orc , Male , height 6'3" , Brown eyes , Right handed , medium strength , medium force , trivial sustain , trivial tolerance , medium dexterity , low speed , trivial precision , low reaction , high intelligence , medium memory , trivial processing , medium reasoning , high constitution , medium healing , low fortitude , low vitality , concerning luck
 seed : 6692900864
+=======================
+IPC 935
+cinematic picture , clothed  , Tan skin , Black hair , Dwarf born on 2018, subrace Mountain Dwarf , Male , height 4'5" , Brown eyes , Right handed , medium strength , low force , trivial sustain , trivial tolerance , high dexterity , medium speed , low precision , trivial reaction , medium intelligence , trivial memory , trivial processing , low reasoning , concerning constitution , medium healing , trivial fortitude , trivial vitality , high luck
+seed : 6692900764
