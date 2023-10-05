@@ -23404,3 +23404,7 @@ seed : 6692915564
 IPC 786
 cinematic picture , clothed  , Marbled White skin , Light Brown hair , Dwarf born on 2018, subrace Quarry Dwarf , Female , height 4'1" , Black eyes , Right handed , medium strength , low force , low sustain , trivial tolerance , high dexterity , low speed , low precision , low reaction , medium intelligence , trivial memory , low processing , low reasoning , concerning constitution , trivial healing , trivial fortitude , medium vitality , high luck
 seed : 6692915464
+=======================
+IPC 787
+cinematic picture , clothed  , Brown skin , Black hair , Human born on 2018, subrace Coastal Human , Male , height 5'11" , Blue eyes , Right handed , high strength , low force , low sustain , low tolerance , concerning dexterity , low speed , low precision , trivial reaction , critical intelligence , low memory , low processing , medium reasoning , critical constitution , low healing , medium fortitude , medium vitality , medium luck
+seed : 6692915364
