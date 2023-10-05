@@ -23472,3 +23472,7 @@ seed : 6692913964
 IPC 803
 cinematic picture , clothed  , Brown skin , Black hair , Dwarf born on 2018, subrace Lumber Dwarf , Male , height 4'1" , Green eyes , Left handed , concerning strength , low force , trivial sustain , low tolerance , concerning dexterity , medium speed , low precision , trivial reaction , concerning intelligence , trivial memory , low processing , medium reasoning , high constitution , low healing , low fortitude , medium vitality , concerning luck
 seed : 6692913864
+=======================
+IPC 804
+cinematic picture , clothed  , Yellow skin , White hair , Orc born on 2018, subrace Sand Orc , Male , height 6'8" , Black eyes , Right handed , concerning strength , trivial force , low sustain , low tolerance , high dexterity , medium speed , trivial precision , low reaction , medium intelligence , trivial memory , trivial processing , low reasoning , concerning constitution , trivial healing , low fortitude , low vitality , high luck
+seed : 6692913764
