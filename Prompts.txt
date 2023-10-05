@@ -26112,3 +26112,7 @@ seed : 6692848064
 IPC 1463
 cinematic picture , clothed  , Pale skin , Red hair , Human born on 2018, subrace Nordic Human , Female , height 5'2" , Green eyes , Right handed , high strength , low force , medium sustain , trivial tolerance , concerning dexterity , low speed , trivial precision , low reaction , concerning intelligence , medium memory , low processing , trivial reasoning , high constitution , low healing , low fortitude , medium vitality , concerning luck
 seed : 6692847964
+=======================
+IPC 1464
+cinematic picture , clothed  , Pale skin , Black hair , Human born on 2018, subrace Eastern Human , Male , height 5'10" , Brown eyes , Right handed , medium strength , low force , trivial sustain , low tolerance , medium dexterity , trivial speed , low precision , trivial reaction , high intelligence , low memory , trivial processing , medium reasoning , high constitution , low healing , low fortitude , low vitality , high luck
+seed : 6692847864
