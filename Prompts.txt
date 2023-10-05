@@ -23712,3 +23712,7 @@ seed : 6692908064
 IPC 863
 cinematic picture , clothed  , Dark Brown skin , Black hair , Dwarf born on 2018, subrace Hill Dwarf , Female , height 4'3" , Amber eyes , Right handed , medium strength , trivial force , low sustain , trivial tolerance , concerning dexterity , low speed , medium precision , trivial reaction , medium intelligence , trivial memory , trivial processing , low reasoning , high constitution , trivial healing , low fortitude , low vitality , high luck
 seed : 6692907964
+=======================
+IPC 864
+cinematic picture , clothed  , White skin , Black hair , Human born on 2018, subrace Mythical Human , Male , height 5'10" , Red eyes , Left handed , medium strength , trivial force , trivial sustain , low tolerance , low dexterity , trivial speed , trivial precision , trivial reaction , high intelligence , low memory , low processing , low reasoning , concerning constitution , trivial healing , low fortitude , low vitality , high luck
+seed : 6692907864
