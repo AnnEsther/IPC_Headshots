@@ -9167,3 +9167,7 @@ seed : 6692915464
 IPC 626
 cinematic picture , clothed  , White skin , Blue hair , Elf born on 1970, subrace Night Elf , Female , height 5'11" , Ice eyes , Left handed , low strength , trivial force , trivial sustain , trivial tolerance , low dexterity , trivial speed , trivial precision , trivial reaction , low intelligence , trivial memory , trivial processing , trivial reasoning , low constitution , trivial healing , trivial fortitude , trivial vitality , critical luck
 seed : 6692915364
+=======================
+IPC 627
+cinematic picture , clothed  , Blue-Grey skin , Blue hair , Elf born on 2018, subrace Night Elf , Male , height 6'3" , Purple eyes , Right handed , high strength , low force , medium sustain , low tolerance , high dexterity , trivial speed , low precision , low reaction , concerning intelligence , trivial memory , low processing , low reasoning , concerning constitution , trivial healing , low fortitude , low vitality , concerning luck
+seed : 6692915264
