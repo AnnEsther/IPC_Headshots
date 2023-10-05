@@ -9063,3 +9063,7 @@ seed : 6692918064
 IPC 600
 cinematic picture , clothed  , Marbled Black skin , Light Brown hair , Dwarf born on 2018, subrace Quarry Dwarf , Male , height 4'1" , Black eyes , Left handed , critical strength , medium force , medium sustain , medium tolerance , high dexterity , low speed , medium precision , low reaction , medium intelligence , trivial memory , low processing , trivial reasoning , high constitution , low healing , low fortitude , low vitality , medium luck
 seed : 6692917964
+=======================
+IPC 601
+cinematic picture , clothed  , Tan skin , Blonde hair , Dwarf born on 2018, subrace Lumber Dwarf , Female , height 3'11" , Green eyes , Right handed , critical strength , medium force , low sustain , low tolerance , high dexterity , trivial speed , low precision , low reaction , low intelligence , trivial memory , trivial processing , low reasoning , concerning constitution , trivial healing , low fortitude , low vitality , concerning luck
+seed : 6692917864
