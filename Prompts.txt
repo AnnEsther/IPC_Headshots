@@ -26468,3 +26468,7 @@ seed : 6692839164
 IPC 1552
 cinematic picture , clothed  , Brown skin , Brown hair , Human born on 2018, subrace Coastal Human , Male , height 5'9" , Brown eyes , Left handed , concerning strength , trivial force , low sustain , low tolerance , concerning dexterity , trivial speed , low precision , low reaction , medium intelligence , trivial memory , low processing , trivial reasoning , high constitution , medium healing , trivial fortitude , low vitality , high luck
 seed : 6692839064
+=======================
+IPC 1553
+cinematic picture , clothed  , Tan skin , Brown hair , Dwarf born on 2018, subrace Mountain Dwarf , Female , height 4'3" , Blue eyes , Left handed , high strength , medium force , trivial sustain , medium tolerance , medium dexterity , trivial speed , trivial precision , low reaction , concerning intelligence , low memory , trivial processing , low reasoning , critical constitution , low healing , medium fortitude , low vitality , concerning luck
+seed : 6692838964
