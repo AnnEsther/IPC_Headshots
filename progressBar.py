@@ -3,7 +3,7 @@ def getProgress(ipc):
     result = ""
     x = 1
 
-    for x in range(1,(perc)):
+    for x in range(1,round(perc)+1):
         result = result + "█"
 
     for x in range(round(perc),100):
