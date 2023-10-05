@@ -26080,3 +26080,7 @@ seed : 6692848864
 IPC 1455
 cinematic picture , clothed  , Beige skin , Red hair , Human born on 2018, subrace Nordic Human , Male , height 5'5" , Blue eyes , Left handed , concerning strength , low force , trivial sustain , low tolerance , high dexterity , low speed , medium precision , low reaction , medium intelligence , trivial memory , low processing , low reasoning , concerning constitution , trivial healing , trivial fortitude , medium vitality , high luck
 seed : 6692848764
+=======================
+IPC 1456
+cinematic picture , clothed  , Grey skin , Brown hair , Orc born on 2018, subrace Ash Orc , Male , height 6'7" , Brown eyes , Right handed , concerning strength , low force , low sustain , trivial tolerance , concerning dexterity , low speed , medium precision , trivial reaction , high intelligence , low memory , low processing , low reasoning , concerning constitution , low healing , trivial fortitude , low vitality , concerning luck
+seed : 6692848664
