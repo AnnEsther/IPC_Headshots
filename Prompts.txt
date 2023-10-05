@@ -4353,3 +4353,7 @@ seed : 6692920964
 IPC 548
 cinematic picture , clothed  , Tan skin , Black hair , Human born on 2018, subrace Eastern Human , Male , height 6'2" , Amber eyes , Right handed , critical strength , medium force , medium sustain , medium tolerance , high dexterity , low speed , low precision , medium reaction , concerning intelligence , trivial memory , low processing , low reasoning , high constitution , low healing , low fortitude , low vitality , medium luck
 seed : 6692920864
+=======================
+IPC 549
+cinematic picture , clothed  , Pale skin , Grey hair , Human born on 2018, subrace Eastern Human , Male , height 5'10" , Amber eyes , Right handed , concerning strength , low force , low sustain , trivial tolerance , high dexterity , low speed , medium precision , low reaction , medium intelligence , trivial memory , low processing , trivial reasoning , concerning constitution , low healing , low fortitude , trivial vitality , concerning luck
+seed : 6692920764
