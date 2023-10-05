@@ -23412,3 +23412,7 @@ seed : 6692915364
 IPC 788
 cinematic picture , clothed  , Beige skin , Dark Brown hair , Dwarf born on 2018, subrace Mountain Dwarf , Male , height 4'2" , Green eyes , Right handed , critical strength , medium force , low sustain , low tolerance , concerning dexterity , trivial speed , low precision , low reaction , medium intelligence , low memory , low processing , trivial reasoning , concerning constitution , low healing , low fortitude , trivial vitality , concerning luck
 seed : 6692915264
+=======================
+IPC 789
+cinematic picture , clothed  , Marbled White skin , Blonde hair , Dwarf born on 2018, subrace Quarry Dwarf , Male , height 4'2" , Amber eyes , Right handed , critical strength , low force , low sustain , medium tolerance , high dexterity , low speed , medium precision , low reaction , medium intelligence , low memory , trivial processing , trivial reasoning , medium constitution , trivial healing , trivial fortitude , low vitality , concerning luck
+seed : 6692915164
