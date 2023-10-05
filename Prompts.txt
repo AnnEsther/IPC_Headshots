@@ -14357,3 +14357,7 @@ seed : 6692921564
 IPC 643
 cinematic picture , clothed  , Beige skin , Red hair , Human born on 2018, subrace Nordic Human , Female , height 5'5" , Icy eyes , Right handed , concerning strength , low force , low sustain , low tolerance , concerning dexterity , low speed , low precision , trivial reaction , concerning intelligence , low memory , trivial processing , low reasoning , critical constitution , medium healing , medium fortitude , low vitality , concerning luck
 seed : 6692921464
+=======================
+IPC 644
+cinematic picture , clothed  , Pale skin , Light Brown hair , Human born on 2018, subrace Nordic Human , Female , height 5'2" , Green eyes , Right handed , medium strength , trivial force , low sustain , trivial tolerance , concerning dexterity , low speed , trivial precision , low reaction , high intelligence , low memory , trivial processing , medium reasoning , high constitution , trivial healing , medium fortitude , low vitality , concerning luck
+seed : 6692921364
