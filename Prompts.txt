@@ -25944,3 +25944,7 @@ seed : 6692852264
 IPC 1421
 cinematic picture , clothed  , Black skin , Black hair , Human born on 2018, subrace Southern Human , Female , height 5'2" , Green eyes , Right handed , concerning strength , low force , trivial sustain , trivial tolerance , concerning dexterity , trivial speed , low precision , low reaction , medium intelligence , low memory , trivial processing , trivial reasoning , high constitution , medium healing , low fortitude , low vitality , high luck
 seed : 6692852164
+=======================
+IPC 1422
+cinematic picture , clothed  , Dark Brown skin , White hair , Human born on 2018, subrace Southern Human , Male , height 6'1" , Green eyes , Right handed , high strength , low force , low sustain , low tolerance , critical dexterity , low speed , low precision , medium reaction , high intelligence , low memory , trivial processing , medium reasoning , medium constitution , trivial healing , low fortitude , low vitality , concerning luck
+seed : 6692852064
