@@ -26244,3 +26244,7 @@ seed : 6692844764
 IPC 1496
 cinematic picture , clothed  , White skin , Light Brown hair , Dwarf born on 2018, subrace Quarry Dwarf , Male , height 4'2" , Brown eyes , Right handed , concerning strength , low force , low sustain , trivial tolerance , low dexterity , trivial speed , trivial precision , trivial reaction , medium intelligence , trivial memory , low processing , trivial reasoning , concerning constitution , low healing , low fortitude , trivial vitality , high luck
 seed : 6692844664
+=======================
+IPC 1497
+cinematic picture , clothed  , Midnight Blue skin , Dark Blue hair , Elf born on 2018, subrace Night Elf , Female , height 5'11" , Purple eyes , Right handed , high strength , medium force , low sustain , low tolerance , high dexterity , medium speed , low precision , low reaction , concerning intelligence , low memory , trivial processing , low reasoning , critical constitution , medium healing , low fortitude , medium vitality , medium luck
+seed : 6692844564
