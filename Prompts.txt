@@ -23316,3 +23316,7 @@ seed : 6692917764
 IPC 764
 cinematic picture , clothed  , Beige skin , Light Brown hair , Elf born on 2018, subrace Wood Elf , Female , height 6'1" , Orange eyes , Right handed , concerning strength , medium force , trivial sustain , low tolerance , high dexterity , low speed , low precision , low reaction , concerning intelligence , low memory , low processing , low reasoning , critical constitution , medium healing , medium fortitude , low vitality , concerning luck
 seed : 6692917664
+=======================
+IPC 765
+cinematic picture , clothed  , Beige skin , Blonde hair , Human born on 2018, subrace Coastal Human , Female , height 5'10" , Brown eyes , Right handed , medium strength , trivial force , low sustain , low tolerance , medium dexterity , trivial speed , trivial precision , low reaction , concerning intelligence , low memory , low processing , low reasoning , high constitution , low healing , low fortitude , low vitality , high luck
+seed : 6692917564
