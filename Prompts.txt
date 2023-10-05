@@ -17250,3 +17250,7 @@ seed : 6692918964
 IPC 697
 cinematic picture , clothed  , Beige skin , Brown hair , Elf born on 2018, subrace High Elf , Female , height 6'2" , Orange eyes , Right handed , medium strength , low force , trivial sustain , trivial tolerance , medium dexterity , trivial speed , medium precision , trivial reaction , high intelligence , low memory , low processing , medium reasoning , high constitution , trivial healing , medium fortitude , low vitality , concerning luck
 seed : 6692918864
+=======================
+IPC 698
+cinematic picture , clothed  , Beige skin , Platinum hair , Human born on 2018, subrace Nordic Human , Female , height 5'6" , Blue eyes , Right handed , concerning strength , low force , low sustain , trivial tolerance , medium dexterity , trivial speed , low precision , trivial reaction , low intelligence , trivial memory , trivial processing , trivial reasoning , high constitution , medium healing , low fortitude , low vitality , high luck
+seed : 6692918764
