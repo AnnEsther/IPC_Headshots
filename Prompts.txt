@@ -4373,3 +4373,7 @@ seed : 6692920464
 IPC 553
 cinematic picture , clothed  , Yellow skin , Black hair , Orc born on 2018, subrace Sand Orc , Female , height 6'5" , Gold eyes , Right handed , high strength , trivial force , low sustain , medium tolerance , concerning dexterity , low speed , low precision , trivial reaction , concerning intelligence , trivial memory , trivial processing , medium reasoning , high constitution , trivial healing , medium fortitude , medium vitality , concerning luck
 seed : 6692920364
+=======================
+IPC 554
+cinematic picture , clothed  , Beige skin , Grey hair , Human born on 2018, subrace Eastern Human , Male , height 6'0" , Black eyes , Right handed , critical strength , low force , medium sustain , medium tolerance , medium dexterity , low speed , trivial precision , trivial reaction , critical intelligence , low memory , low processing , low reasoning , concerning constitution , trivial healing , trivial fortitude , low vitality , concerning luck
+seed : 6692920264
