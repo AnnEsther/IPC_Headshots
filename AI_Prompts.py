@@ -158,7 +158,7 @@ for row in rows:
     f.close()
 
     repo.git.add('--all')
-    repo.index.commit(str(id))
+    repo.index.commit("https://github.com/AnnEsther/IPC_Headshots/blob/main/Output/"+str(id)+".png")
 
     repo.git.push("--set-upstream", origin, repo.head.ref)
 
