@@ -25940,3 +25940,7 @@ seed : 6692852364
 IPC 1420
 cinematic picture , clothed  , Tan skin , Grey hair , Elf born on 2018, subrace High Elf , Male , height 6'5" , Green eyes , Right handed , medium strength , trivial force , trivial sustain , low tolerance , concerning dexterity , low speed , trivial precision , trivial reaction , medium intelligence , low memory , trivial processing , trivial reasoning , high constitution , low healing , low fortitude , low vitality , high luck
 seed : 6692852264
+=======================
+IPC 1421
+cinematic picture , clothed  , Black skin , Black hair , Human born on 2018, subrace Southern Human , Female , height 5'2" , Green eyes , Right handed , concerning strength , low force , trivial sustain , trivial tolerance , concerning dexterity , trivial speed , low precision , low reaction , medium intelligence , low memory , trivial processing , trivial reasoning , high constitution , medium healing , low fortitude , low vitality , high luck
+seed : 6692852164
