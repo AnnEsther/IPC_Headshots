@@ -24820,3 +24820,7 @@ seed : 6692880364
 IPC 1140
 cinematic picture , clothed  , Pale skin , Dark Brown hair , Dwarf born on 2018, subrace Mountain Dwarf , Male , height 4'4" , Green eyes , Right handed , concerning strength , low force , trivial sustain , low tolerance , low dexterity , trivial speed , trivial precision , trivial reaction , concerning intelligence , low memory , low processing , trivial reasoning , medium constitution , trivial healing , low fortitude , low vitality , high luck
 seed : 6692880264
+=======================
+IPC 1141
+cinematic picture , clothed  , Pale skin , Light Brown hair , Human born on 2018, subrace Nordic Human , Male , height 5'7" , Icy eyes , Right handed , medium strength , low force , trivial sustain , trivial tolerance , high dexterity , trivial speed , low precision , medium reaction , concerning intelligence , low memory , trivial processing , low reasoning , concerning constitution , low healing , low fortitude , trivial vitality , high luck
+seed : 6692880164
