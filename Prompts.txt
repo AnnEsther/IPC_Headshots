@@ -25524,3 +25524,7 @@ seed : 6692862764
 IPC 1316
 cinematic picture , clothed  , Tan skin , Blonde hair , Human born on 2018, subrace Coastal Human , Male , height 5'7" , Green eyes , Right handed , medium strength , low force , trivial sustain , trivial tolerance , critical dexterity , medium speed , low precision , medium reaction , critical intelligence , medium memory , low processing , low reasoning , high constitution , low healing , low fortitude , low vitality , concerning luck
 seed : 6692862664
+=======================
+IPC 1317
+cinematic picture , clothed  , Beige skin , Brown hair , Elf born on 2018, subrace High Elf , Male , height 6'4" , Orange eyes , Right handed , concerning strength , low force , low sustain , trivial tolerance , high dexterity , medium speed , low precision , low reaction , medium intelligence , low memory , trivial processing , low reasoning , high constitution , low healing , trivial fortitude , low vitality , concerning luck
+seed : 6692862564
