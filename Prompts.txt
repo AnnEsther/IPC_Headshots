@@ -24264,3 +24264,7 @@ seed : 6692894264
 IPC 1001
 cinematic picture , clothed  , Tan skin , Blonde hair , Human born on 2018, subrace Coastal Human , Male , height 5'6" , Green eyes , Right handed , high strength , medium force , low sustain , trivial tolerance , concerning dexterity , low speed , low precision , low reaction , concerning intelligence , low memory , low processing , low reasoning , concerning constitution , low healing , medium fortitude , trivial vitality , concerning luck
 seed : 6692894164
+=======================
+IPC 1002
+cinematic picture , clothed  , Dark Yellow skin , White hair , Orc born on 2018, subrace Sand Orc , Male , height 6'7" , Gold eyes , Right handed , concerning strength , low force , medium sustain , trivial tolerance , high dexterity , low speed , low precision , low reaction , critical intelligence , medium memory , low processing , medium reasoning , concerning constitution , trivial healing , medium fortitude , trivial vitality , concerning luck
+seed : 6692894064
