@@ -14445,3 +14445,11 @@ seed : 6692919364
 IPC 665
 cinematic picture , clothed  , Tan skin , Grey hair , Elf born on 2018, subrace High Elf , Female , height 6'0" , Orange eyes , Right handed , concerning strength , low force , trivial sustain , low tolerance , medium dexterity , low speed , trivial precision , low reaction , concerning intelligence , trivial memory , low processing , low reasoning , medium constitution , trivial healing , low fortitude , trivial vitality , high luck
 seed : 6692919264
+=======================
+IPC 666
+cinematic picture , clothed  , Beige skin , Blonde hair , Human born on 2018, subrace Nordic Human , Female , height 5'6" , Icy eyes , Left handed , low strength , trivial force , trivial sustain , trivial tolerance , concerning dexterity , low speed , low precision , low reaction , medium intelligence , trivial memory , trivial processing , low reasoning , medium constitution , low healing , trivial fortitude , trivial vitality , critical luck
+seed : 6692919164
+=======================
+IPC 667
+cinematic picture , clothed  , Pale skin , Brown hair , Elf born on 2018, subrace High Elf , Male , height 6'3" , Purple eyes , Right handed , high strength , low force , low sustain , low tolerance , critical dexterity , medium speed , low precision , medium reaction , concerning intelligence , low memory , low processing , trivial reasoning , medium constitution , low healing , trivial fortitude , trivial vitality , concerning luck
+seed : 6692919164
