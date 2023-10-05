@@ -24964,3 +24964,7 @@ seed : 6692876764
 IPC 1176
 cinematic picture , clothed  , Brown skin , Gold hair , Elf born on 2018, subrace Sun Elf , Female , height 6'0" , Orange eyes , Right handed , medium strength , low force , trivial sustain , trivial tolerance , medium dexterity , trivial speed , low precision , low reaction , medium intelligence , trivial memory , trivial processing , low reasoning , critical constitution , low healing , low fortitude , medium vitality , high luck
 seed : 6692876664
+=======================
+IPC 1177
+cinematic picture , clothed  , White skin , Black hair , Human born on 2018, subrace Mythical Human , Male , height 5'9" , Red eyes , Right handed , concerning strength , low force , low sustain , trivial tolerance , concerning dexterity , low speed , medium precision , trivial reaction , high intelligence , low memory , trivial processing , medium reasoning , high constitution , low healing , low fortitude , low vitality , concerning luck
+seed : 6692876564
