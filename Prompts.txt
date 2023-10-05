@@ -25880,3 +25880,7 @@ seed : 6692853864
 IPC 1405
 cinematic picture , clothed  , Grey skin , Black hair , Dwarf born on 2018, subrace Volcano Dwarf , Female , height 4'1" , Purple eyes , Right handed , concerning strength , low force , trivial sustain , low tolerance , high dexterity , low speed , low precision , low reaction , critical intelligence , medium memory , low processing , medium reasoning , low constitution , trivial healing , trivial fortitude , trivial vitality , concerning luck
 seed : 6692853764
+=======================
+IPC 1406
+cinematic picture , clothed  , Dark Brown skin , Brown hair , Dwarf born on 2018, subrace Hill Dwarf , Male , height 4'2" , Brown eyes , Right handed , high strength , low force , trivial sustain , low tolerance , concerning dexterity , low speed , low precision , trivial reaction , high intelligence , trivial memory , low processing , medium reasoning , low constitution , trivial healing , trivial fortitude , trivial vitality , high luck
+seed : 6692853664
