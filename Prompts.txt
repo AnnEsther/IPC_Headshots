@@ -25472,3 +25472,7 @@ seed : 6692864064
 IPC 1303
 cinematic picture , clothed  , Beige skin , Light Brown hair , Human born on 2018, subrace Nordic Human , Male , height 5'8" , Green eyes , Right handed , critical strength , medium force , low sustain , low tolerance , concerning dexterity , trivial speed , low precision , low reaction , concerning intelligence , low memory , low processing , trivial reasoning , concerning constitution , low healing , trivial fortitude , low vitality , concerning luck
 seed : 6692863964
+=======================
+IPC 1304
+cinematic picture , clothed  , Brown skin , Brown hair , Human born on 2018, subrace Coastal Human , Male , height 5'6" , Green eyes , Right handed , concerning strength , trivial force , low sustain , medium tolerance , concerning dexterity , low speed , trivial precision , low reaction , concerning intelligence , low memory , trivial processing , low reasoning , medium constitution , low healing , trivial fortitude , trivial vitality , high luck
+seed : 6692863864
