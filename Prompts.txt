@@ -23716,3 +23716,7 @@ seed : 6692907964
 IPC 864
 cinematic picture , clothed  , White skin , Black hair , Human born on 2018, subrace Mythical Human , Male , height 5'10" , Red eyes , Left handed , medium strength , trivial force , trivial sustain , low tolerance , low dexterity , trivial speed , trivial precision , trivial reaction , high intelligence , low memory , low processing , low reasoning , concerning constitution , trivial healing , low fortitude , low vitality , high luck
 seed : 6692907864
+=======================
+IPC 865
+cinematic picture , clothed  , White skin , Blonde hair , Dwarf born on 2018, subrace Quarry Dwarf , Male , height 4'4" , Black eyes , Right handed , concerning strength , trivial force , low sustain , low tolerance , concerning dexterity , low speed , low precision , trivial reaction , critical intelligence , low memory , medium processing , medium reasoning , high constitution , medium healing , trivial fortitude , medium vitality , concerning luck
+seed : 6692907764
