@@ -24548,3 +24548,7 @@ seed : 6692887164
 IPC 1072
 cinematic picture , clothed  , Beige skin , Brown hair , Elf born on 2018, subrace High Elf , Male , height 6'4" , Purple eyes , Left handed , critical strength , medium force , low sustain , low tolerance , high dexterity , trivial speed , low precision , medium reaction , concerning intelligence , low memory , low processing , trivial reasoning , concerning constitution , low healing , low fortitude , low vitality , concerning luck
 seed : 6692887064
+=======================
+IPC 1073
+cinematic picture , clothed  , Black skin , White hair , Orc born on 2018, subrace Ash Orc , Male , height 6'8" , Brown eyes , Right handed , critical strength , low force , low sustain , medium tolerance , concerning dexterity , trivial speed , low precision , low reaction , concerning intelligence , trivial memory , low processing , trivial reasoning , high constitution , low healing , low fortitude , medium vitality , concerning luck
+seed : 6692886964
