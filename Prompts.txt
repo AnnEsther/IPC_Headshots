@@ -23668,3 +23668,7 @@ seed : 6692909164
 IPC 852
 cinematic picture , clothed  , Grey skin , Black hair , Dwarf born on 2018, subrace Hill Dwarf , Male , height 4'2" , Black eyes , Right handed , concerning strength , low force , low sustain , trivial tolerance , concerning dexterity , trivial speed , low precision , low reaction , high intelligence , low memory , medium processing , trivial reasoning , concerning constitution , trivial healing , low fortitude , low vitality , concerning luck
 seed : 6692909064
+=======================
+IPC 853
+cinematic picture , clothed  , Tan skin , Brown hair , Dwarf born on 2018, subrace Mountain Dwarf , Male , height 4'2" , Brown eyes , Right handed , high strength , low force , low sustain , low tolerance , critical dexterity , medium speed , low precision , low reaction , high intelligence , medium memory , low processing , low reasoning , concerning constitution , low healing , low fortitude , trivial vitality , medium luck
+seed : 6692908964
