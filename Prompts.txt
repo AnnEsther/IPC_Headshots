@@ -17270,3 +17270,7 @@ seed : 6692918464
 IPC 702
 cinematic picture , clothed  , Tan skin , Dark Brown hair , Dwarf born on 2018, subrace Mountain Dwarf , Male , height 4'3" , Green eyes , Right handed , concerning strength , low force , low sustain , trivial tolerance , critical dexterity , low speed , medium precision , medium reaction , high intelligence , trivial memory , low processing , medium reasoning , high constitution , low healing , low fortitude , low vitality , concerning luck
 seed : 6692918364
+=======================
+IPC 703
+cinematic picture , clothed  , Dark Yellow skin , White hair , Orc born on 2018, subrace Sand Orc , Male , height 6'10" , Brown eyes , Left handed , medium strength , low force , low sustain , trivial tolerance , concerning dexterity , low speed , trivial precision , low reaction , concerning intelligence , low memory , trivial processing , low reasoning , critical constitution , low healing , low fortitude , medium vitality , concerning luck
+seed : 6692918264
