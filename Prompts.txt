@@ -24940,3 +24940,7 @@ seed : 6692877364
 IPC 1170
 cinematic picture , clothed  , White skin , Black hair , Human born on 2018, subrace Mythical Human , Male , height 5'4" , Red eyes , Right handed , medium strength , low force , trivial sustain , trivial tolerance , high dexterity , low speed , medium precision , low reaction , high intelligence , low memory , medium processing , low reasoning , concerning constitution , trivial healing , low fortitude , low vitality , concerning luck
 seed : 6692877264
+=======================
+IPC 1171
+cinematic picture , clothed  , White skin , Black hair , Human born on 2018, subrace Mythical Human , Male , height 5'9" , Red eyes , Right handed , high strength , low force , medium sustain , low tolerance , high dexterity , medium speed , low precision , low reaction , concerning intelligence , medium memory , trivial processing , low reasoning , medium constitution , trivial healing , low fortitude , trivial vitality , concerning luck
+seed : 6692877164
