@@ -4369,3 +4369,7 @@ seed : 6692920564
 IPC 552
 cinematic picture , clothed  , Tan skin , Brown hair , Dwarf born on 2018, subrace Mountain Dwarf , Male , height 4'2" , Brown eyes , Right handed , concerning strength , trivial force , low sustain , low tolerance , medium dexterity , trivial speed , trivial precision , low reaction , concerning intelligence , trivial memory , low processing , low reasoning , critical constitution , low healing , medium fortitude , low vitality , concerning luck
 seed : 6692920464
+=======================
+IPC 553
+cinematic picture , clothed  , Yellow skin , Black hair , Orc born on 2018, subrace Sand Orc , Female , height 6'5" , Gold eyes , Right handed , high strength , trivial force , low sustain , medium tolerance , concerning dexterity , low speed , low precision , trivial reaction , concerning intelligence , trivial memory , trivial processing , medium reasoning , high constitution , trivial healing , medium fortitude , medium vitality , concerning luck
+seed : 6692920364
