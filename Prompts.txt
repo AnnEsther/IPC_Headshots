@@ -24396,3 +24396,7 @@ seed : 6692890964
 IPC 1034
 cinematic picture , clothed  , Pale Green skin , Black hair , Orc born on 2018, subrace Plains Orc , Female , height 6'1" , Gold eyes , Right handed , critical strength , medium force , medium sustain , medium tolerance , critical dexterity , low speed , low precision , medium reaction , high intelligence , medium memory , low processing , trivial reasoning , high constitution , low healing , low fortitude , medium vitality , medium luck
 seed : 6692890864
+=======================
+IPC 1035
+cinematic picture , clothed  , Brown skin , Brown hair , Elf born on 2018, subrace Sun Elf , Female , height 6'1" , Orange eyes , Right handed , concerning strength , low force , low sustain , trivial tolerance , concerning dexterity , trivial speed , low precision , low reaction , concerning intelligence , low memory , low processing , trivial reasoning , high constitution , low healing , medium fortitude , trivial vitality , concerning luck
+seed : 6692890764
