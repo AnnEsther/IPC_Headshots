@@ -4385,3 +4385,7 @@ seed : 6692920164
 IPC 556
 cinematic picture , clothed  , Beige skin , Platinum hair , Human born on 2018, subrace Nordic Human , Female , height 5'1" , Icy eyes , Left handed , medium strength , trivial force , low sustain , trivial tolerance , medium dexterity , trivial speed , low precision , trivial reaction , critical intelligence , medium memory , low processing , medium reasoning , medium constitution , medium healing , trivial fortitude , trivial vitality , high luck
 seed : 6692920064
+=======================
+IPC 557
+cinematic picture , clothed  , Blue-Grey skin , Midnight Blue hair , Elf born on 2018, subrace Night Elf , Male , height 6'4" , Purple eyes , Right handed , high strength , low force , medium sustain , trivial tolerance , high dexterity , low speed , low precision , low reaction , high intelligence , low memory , low processing , medium reasoning , low constitution , trivial healing , trivial fortitude , trivial vitality , concerning luck
+seed : 6692919964
