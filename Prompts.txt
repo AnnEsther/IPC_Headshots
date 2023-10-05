@@ -26400,3 +26400,7 @@ seed : 6692840864
 IPC 1535
 cinematic picture , clothed  , Tan skin , Red hair , Human born on 2018, subrace Coastal Human , Female , height 5'4" , Blue eyes , Right handed , concerning strength , low force , low sustain , trivial tolerance , concerning dexterity , low speed , low precision , low reaction , high intelligence , medium memory , trivial processing , low reasoning , critical constitution , low healing , low fortitude , low vitality , concerning luck
 seed : 6692840764
+=======================
+IPC 1536
+cinematic picture , clothed  , Pale skin , Light Brown hair , Human born on 2018, subrace Nordic Human , Male , height 5'11" , Blue eyes , Right handed , low strength , trivial force , low sustain , trivial tolerance , high dexterity , trivial speed , low precision , medium reaction , medium intelligence , trivial memory , trivial processing , low reasoning , concerning constitution , trivial healing , low fortitude , low vitality , high luck
+seed : 6692840664
