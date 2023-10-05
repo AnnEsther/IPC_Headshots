@@ -25580,3 +25580,7 @@ seed : 6692861364
 IPC 1330
 cinematic picture , clothed  , Yellow skin , Black hair , Orc born on 2018, subrace Sand Orc , Male , height 6'6" , Brown eyes , Right handed , high strength , low force , low sustain , low tolerance , medium dexterity , trivial speed , trivial precision , low reaction , critical intelligence , medium memory , low processing , low reasoning , high constitution , trivial healing , medium fortitude , medium vitality , concerning luck
 seed : 6692861264
+=======================
+IPC 1331
+cinematic picture , clothed  , Tan skin , Brown hair , Dwarf born on 2018, subrace Lumber Dwarf , Male , height 4'5" , Green eyes , Right handed , high strength , low force , low sustain , medium tolerance , concerning dexterity , trivial speed , low precision , trivial reaction , critical intelligence , low memory , medium processing , low reasoning , low constitution , trivial healing , trivial fortitude , trivial vitality , concerning luck
+seed : 6692861164
