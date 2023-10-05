@@ -23236,3 +23236,7 @@ seed : 6692919764
 IPC 744
 cinematic picture , clothed  , Pale skin , Black hair , Dwarf born on 2018, subrace Mountain Dwarf , Male , height 4'1" , Blue eyes , Right handed , concerning strength , low force , trivial sustain , low tolerance , concerning dexterity , medium speed , trivial precision , low reaction , medium intelligence , low memory , trivial processing , trivial reasoning , concerning constitution , low healing , low fortitude , low vitality , high luck
 seed : 6692919664
+=======================
+IPC 745
+cinematic picture , clothed  , Midnight Blue skin , Dark Blue hair , Elf born on 2018, subrace Night Elf , Male , height 6'2" , Ice eyes , Right handed , critical strength , low force , low sustain , low tolerance , medium dexterity , trivial speed , trivial precision , medium reaction , concerning intelligence , trivial memory , medium processing , trivial reasoning , concerning constitution , low healing , trivial fortitude , low vitality , concerning luck
+seed : 6692919564
