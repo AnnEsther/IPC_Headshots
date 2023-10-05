@@ -9035,3 +9035,7 @@ seed : 6692918764
 IPC 593
 cinematic picture , clothed  , White skin , Brown hair , Dwarf born on 2018, subrace Quarry Dwarf , Male , height 4'2" , Black eyes , Right handed , concerning strength , low force , low sustain , trivial tolerance , concerning dexterity , trivial speed , low precision , low reaction , critical intelligence , low memory , medium processing , medium reasoning , high constitution , medium healing , low fortitude , low vitality , concerning luck
 seed : 6692918664
+=======================
+IPC 594
+cinematic picture , clothed  , Black skin , Black hair , Orc born on 2018, subrace Ash Orc , Male , height 6'6" , Gold eyes , Right handed , concerning strength , low force , trivial sustain , low tolerance , high dexterity , low speed , trivial precision , medium reaction , high intelligence , medium memory , medium processing , trivial reasoning , medium constitution , trivial healing , trivial fortitude , low vitality , concerning luck
+seed : 6692918564
