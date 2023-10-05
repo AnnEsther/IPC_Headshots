@@ -9103,3 +9103,7 @@ seed : 6692917064
 IPC 610
 cinematic picture , clothed  , Brown skin , Brown hair , Elf born on 2018, subrace Sun Elf , Female , height 6'0" , Gold eyes , Right handed , high strength , trivial force , low sustain , medium tolerance , medium dexterity , trivial speed , trivial precision , low reaction , critical intelligence , low memory , low processing , low reasoning , medium constitution , low healing , trivial fortitude , low vitality , concerning luck
 seed : 6692916964
+=======================
+IPC 611
+cinematic picture , clothed  , Tan skin , Dark Brown hair , Dwarf born on 2018, subrace Mountain Dwarf , Male , height 4'2" , Green eyes , Right handed , concerning strength , trivial force , low sustain , low tolerance , critical dexterity , low speed , medium precision , medium reaction , concerning intelligence , low memory , medium processing , trivial reasoning , medium constitution , low healing , trivial fortitude , trivial vitality , concerning luck
+seed : 6692916864
