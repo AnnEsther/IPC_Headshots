@@ -23600,3 +23600,7 @@ seed : 6692910864
 IPC 835
 cinematic picture , clothed  , Brown skin , Brown hair , Elf born on 2018, subrace Sun Elf , Male , height 6'5" , Blue eyes , Right handed , concerning strength , trivial force , low sustain , low tolerance , concerning dexterity , low speed , trivial precision , low reaction , concerning intelligence , low memory , low processing , low reasoning , high constitution , medium healing , low fortitude , low vitality , concerning luck
 seed : 6692910764
+=======================
+IPC 836
+cinematic picture , clothed  , Dark Brown skin , Grey hair , Human born on 2018, subrace Southern Human , Male , height 5'11" , Brown eyes , Right handed , concerning strength , low force , trivial sustain , medium tolerance , medium dexterity , low speed , trivial precision , low reaction , low intelligence , trivial memory , low processing , trivial reasoning , concerning constitution , trivial healing , trivial fortitude , low vitality , high luck
+seed : 6692910664
