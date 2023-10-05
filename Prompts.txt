@@ -4361,3 +4361,7 @@ seed : 6692920764
 IPC 550
 cinematic picture , clothed  , Pale skin , Grey hair , Elf born on 2018, subrace High Elf , Female , height 6'3" , Green eyes , Right handed , concerning strength , low force , low sustain , low tolerance , concerning dexterity , low speed , trivial precision , low reaction , high intelligence , medium memory , low processing , low reasoning , high constitution , trivial healing , medium fortitude , medium vitality , concerning luck
 seed : 6692920664
+=======================
+IPC 551
+cinematic picture , clothed  , Pale skin , Black hair , Dwarf born on 2018, subrace Mountain Dwarf , Female , height 4'0" , Blue eyes , Right handed , concerning strength , low force , trivial sustain , low tolerance , concerning dexterity , low speed , trivial precision , low reaction , high intelligence , low memory , medium processing , trivial reasoning , high constitution , low healing , low fortitude , low vitality , concerning luck
+seed : 6692920564
