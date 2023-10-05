@@ -24908,3 +24908,7 @@ seed : 6692878164
 IPC 1162
 cinematic picture , clothed  , Pale Green skin , Red hair , Orc born on 2018, subrace Plains Orc , Male , height 6'5" , Black eyes , Right handed , medium strength , trivial force , trivial sustain , low tolerance , medium dexterity , low speed , trivial precision , trivial reaction , high intelligence , low memory , trivial processing , medium reasoning , high constitution , trivial healing , medium fortitude , medium vitality , high luck
 seed : 6692878064
+=======================
+IPC 1163
+cinematic picture , clothed  , Pale skin , Light Brown hair , Human born on 2018, subrace Nordic Human , Male , height 5'8" , Icy eyes , Right handed , medium strength , low force , trivial sustain , trivial tolerance , low dexterity , trivial speed , trivial precision , trivial reaction , concerning intelligence , trivial memory , low processing , low reasoning , critical constitution , low healing , medium fortitude , low vitality , concerning luck
+seed : 6692877964
