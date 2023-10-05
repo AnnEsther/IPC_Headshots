@@ -24092,3 +24092,7 @@ seed : 6692898564
 IPC 958
 cinematic picture , clothed  , Beige skin , White hair , Human born on 2018, subrace Eastern Human , Male , height 5'8" , Black eyes , Right handed , concerning strength , low force , low sustain , low tolerance , concerning dexterity , medium speed , trivial precision , trivial reaction , concerning intelligence , low memory , low processing , trivial reasoning , high constitution , low healing , low fortitude , medium vitality , concerning luck
 seed : 6692898464
+=======================
+IPC 959
+cinematic picture , clothed  , Brown skin , Blonde hair , Human born on 2018, subrace Coastal Human , Male , height 5'10" , Blue eyes , Right handed , concerning strength , low force , low sustain , trivial tolerance , critical dexterity , low speed , medium precision , medium reaction , concerning intelligence , trivial memory , low processing , low reasoning , high constitution , low healing , trivial fortitude , medium vitality , concerning luck
+seed : 6692898364
