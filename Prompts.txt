@@ -9199,3 +9199,7 @@ seed : 6692914664
 IPC 634
 cinematic picture , clothed  , White skin , Blue hair , Elf born on 2018, subrace Night Elf , Female , height 6'1" , Ice eyes , Left handed , concerning strength , low force , low sustain , trivial tolerance , concerning dexterity , low speed , trivial precision , low reaction , medium intelligence , trivial memory , low processing , trivial reasoning , medium constitution , low healing , trivial fortitude , trivial vitality , high luck
 seed : 6692914564
+=======================
+IPC 635
+cinematic picture , clothed  , Blue-Green skin , Dark Brown hair , Orc born on 2018, subrace Swamp Orc , Male , height 6'3" , Gold eyes , Right handed , concerning strength , medium force , low sustain , trivial tolerance , critical dexterity , low speed , medium precision , low reaction , medium intelligence , trivial memory , trivial processing , low reasoning , medium constitution , low healing , trivial fortitude , trivial vitality , concerning luck
+seed : 6692914464
