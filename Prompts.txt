@@ -23744,3 +23744,7 @@ seed : 6692907264
 IPC 871
 cinematic picture , clothed  , Pale skin , Light Brown hair , Human born on 2018, subrace Nordic Human , Male , height 5'8" , Green eyes , Right handed , high strength , low force , low sustain , low tolerance , high dexterity , trivial speed , low precision , medium reaction , medium intelligence , trivial memory , low processing , trivial reasoning , concerning constitution , medium healing , low fortitude , trivial vitality , concerning luck
 seed : 6692907164
+=======================
+IPC 872
+cinematic picture , clothed  , Pale skin , White hair , Orc born on 2018, subrace Sand Orc , Male , height 6'9" , Gold eyes , Right handed , high strength , low force , low sustain , low tolerance , concerning dexterity , low speed , low precision , low reaction , medium intelligence , low memory , trivial processing , trivial reasoning , concerning constitution , low healing , trivial fortitude , low vitality , concerning luck
+seed : 6692907064
