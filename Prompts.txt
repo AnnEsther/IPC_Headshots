@@ -8951,3 +8951,7 @@ seed : 6692920864
 IPC 572
 cinematic picture , clothed  , Golden skin , Brown hair , Elf born on 2018, subrace Wood Elf , Female , height 6'0" , Blue eyes , Right handed , high strength , low force , medium sustain , trivial tolerance , critical dexterity , low speed , medium precision , medium reaction , concerning intelligence , trivial memory , low processing , low reasoning , medium constitution , trivial healing , trivial fortitude , low vitality , concerning luck
 seed : 6692920764
+=======================
+IPC 573
+cinematic picture , clothed  , Grey skin , Blue-Black hair , Dwarf born on 2018, subrace Volcano Dwarf , Male , height 4'4" , Black eyes , Right handed , concerning strength , low force , low sustain , trivial tolerance , concerning dexterity , low speed , low precision , low reaction , concerning intelligence , trivial memory , low processing , low reasoning , high constitution , medium healing , low fortitude , trivial vitality , concerning luck
+seed : 6692920664
