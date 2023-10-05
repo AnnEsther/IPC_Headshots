@@ -26332,3 +26332,7 @@ seed : 6692842564
 IPC 1518
 cinematic picture , clothed  , Marbled White skin , Light Brown hair , Dwarf born on 2018, subrace Quarry Dwarf , Female , height 4'2" , Brown eyes , Right handed , concerning strength , medium force , trivial sustain , trivial tolerance , concerning dexterity , medium speed , low precision , trivial reaction , concerning intelligence , trivial memory , low processing , low reasoning , high constitution , low healing , low fortitude , medium vitality , concerning luck
 seed : 6692842464
+=======================
+IPC 1519
+cinematic picture , clothed  , Light Brown skin , White hair , Human born on 2018, subrace Southern Human , Male , height 5'7" , Green eyes , Left handed , high strength , low force , low sustain , medium tolerance , medium dexterity , trivial speed , low precision , trivial reaction , concerning intelligence , low memory , low processing , trivial reasoning , medium constitution , trivial healing , low fortitude , trivial vitality , high luck
+seed : 6692842364
