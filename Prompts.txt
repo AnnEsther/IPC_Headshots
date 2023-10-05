@@ -24064,3 +24064,7 @@ seed : 6692899264
 IPC 951
 cinematic picture , clothed  , Tan skin , Blonde hair , Human born on 2018, subrace Coastal Human , Female , height 5'2" , Brown eyes , Right handed , concerning strength , low force , low sustain , low tolerance , critical dexterity , low speed , low precision , low reaction , concerning intelligence , low memory , low processing , low reasoning , high constitution , low healing , low fortitude , low vitality , concerning luck
 seed : 6692899164
+=======================
+IPC 952
+cinematic picture , clothed  , Light Brown skin , Blonde hair , Dwarf born on 2018, subrace Lumber Dwarf , Male , height 4'6" , Amber eyes , Right handed , concerning strength , low force , low sustain , low tolerance , concerning dexterity , low speed , low precision , low reaction , concerning intelligence , trivial memory , low processing , low reasoning , concerning constitution , low healing , trivial fortitude , low vitality , concerning luck
+seed : 6692899064
