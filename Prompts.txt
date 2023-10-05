@@ -23676,3 +23676,7 @@ seed : 6692908964
 IPC 854
 cinematic picture , clothed  , Tan skin , White hair , Human born on 2018, subrace Eastern Human , Female , height 5'10" , Amber eyes , Right handed , concerning strength , low force , trivial sustain , trivial tolerance , high dexterity , low speed , low precision , trivial reaction , concerning intelligence , trivial memory , low processing , medium reasoning , critical constitution , low healing , medium fortitude , medium vitality , concerning luck
 seed : 6692908864
+=======================
+IPC 855
+cinematic picture , clothed  , Tan skin , Brown hair , Elf born on 2018, subrace High Elf , Male , height 6'3" , Green eyes , Right handed , concerning strength , medium force , trivial sustain , trivial tolerance , concerning dexterity , medium speed , low precision , trivial reaction , high intelligence , low memory , low processing , low reasoning , concerning constitution , medium healing , low fortitude , trivial vitality , concerning luck
+seed : 6692908764
