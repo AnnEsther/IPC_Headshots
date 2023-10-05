@@ -24272,3 +24272,7 @@ seed : 6692894064
 IPC 1003
 cinematic picture , clothed  , Marbled Black skin , Blonde hair , Dwarf born on 2018, subrace Quarry Dwarf , Female , height 4'2" , Amber eyes , Right handed , concerning strength , low force , low sustain , low tolerance , high dexterity , low speed , trivial precision , low reaction , high intelligence , trivial memory , low processing , medium reasoning , medium constitution , trivial healing , low fortitude , trivial vitality , concerning luck
 seed : 6692893964
+=======================
+IPC 1004
+cinematic picture , clothed  , Forest Green skin , Black hair , Orc born on 2018, subrace Swamp Orc , Female , height 6'3" , Black eyes , Right handed , high strength , low force , low sustain , low tolerance , medium dexterity , trivial speed , low precision , low reaction , concerning intelligence , medium memory , trivial processing , trivial reasoning , medium constitution , trivial healing , low fortitude , trivial vitality , high luck
+seed : 6692893864
