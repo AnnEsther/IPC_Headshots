@@ -24428,3 +24428,7 @@ seed : 6692890164
 IPC 1042
 cinematic picture , clothed  , Pale skin , Black hair , Human born on 2018, subrace Eastern Human , Female , height 5'1" , Brown eyes , Right handed , concerning strength , trivial force , low sustain , low tolerance , high dexterity , low speed , low precision , medium reaction , concerning intelligence , low memory , trivial processing , low reasoning , high constitution , medium healing , low fortitude , low vitality , concerning luck
 seed : 6692890064
+=======================
+IPC 1043
+cinematic picture , clothed  , Brown skin , Gold hair , Elf born on 2018, subrace Sun Elf , Female , height 6'2" , Green eyes , Right handed , high strength , medium force , low sustain , low tolerance , high dexterity , low speed , medium precision , low reaction , high intelligence , low memory , low processing , low reasoning , critical constitution , medium healing , medium fortitude , low vitality , medium luck
+seed : 6692889964
