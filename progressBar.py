@@ -1,4 +1,4 @@
-def getProgress(ipc):
+def getProgressBar(ipc):
     perc = round(100*(ipc/12000),2)
     result = ""
     x = 1
