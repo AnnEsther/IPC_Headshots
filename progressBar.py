@@ -5,9 +5,11 @@ def getProgress(ipc):
 
     while x <= round(perc):
         result = result + "█"
+        x = x+1
 
     while x <= 100:
         result = result + "▁"
+        x = x+1
 
     print(result)
 
