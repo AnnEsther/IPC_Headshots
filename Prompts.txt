@@ -24028,3 +24028,7 @@ seed : 6692900164
 IPC 942
 cinematic picture , clothed  , Beige skin , Black hair , Elf born on 2018, subrace High Elf , Male , height 6'2" , Green eyes , Right handed , concerning strength , low force , trivial sustain , low tolerance , concerning dexterity , low speed , low precision , trivial reaction , low intelligence , trivial memory , trivial processing , low reasoning , concerning constitution , medium healing , trivial fortitude , low vitality , high luck
 seed : 6692900064
+=======================
+IPC 943
+cinematic picture , clothed  , Beige skin , Black hair , Elf born on 2018, subrace High Elf , Male , height 6'2" , Green eyes , Right handed , high strength , low force , low sustain , medium tolerance , high dexterity , trivial speed , medium precision , medium reaction , high intelligence , low memory , trivial processing , medium reasoning , critical constitution , low healing , medium fortitude , low vitality , medium luck
+seed : 6692899964
