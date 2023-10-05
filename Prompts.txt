@@ -24448,3 +24448,7 @@ seed : 6692889664
 IPC 1047
 cinematic picture , clothed  , Brown skin , Blonde hair , Human born on 2018, subrace Coastal Human , Male , height 5'8" , Green eyes , Right handed , concerning strength , low force , low sustain , low tolerance , medium dexterity , low speed , low precision , trivial reaction , medium intelligence , low memory , trivial processing , trivial reasoning , high constitution , low healing , medium fortitude , low vitality , high luck
 seed : 6692889564
+=======================
+IPC 1048
+cinematic picture , clothed  , White skin , Black hair , Human born on 2018, subrace Mythical Human , Male , height 5'10" , Red eyes , Right handed , high strength , low force , medium sustain , low tolerance , concerning dexterity , low speed , low precision , trivial reaction , concerning intelligence , medium memory , trivial processing , low reasoning , concerning constitution , trivial healing , low fortitude , low vitality , concerning luck
+seed : 6692889464
