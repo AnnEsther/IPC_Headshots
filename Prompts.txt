@@ -23572,3 +23572,7 @@ seed : 6692911564
 IPC 828
 cinematic picture , clothed  , Light Brown skin , Grey hair , Human born on 2018, subrace Southern Human , Male , height 6'1" , Green eyes , Right handed , medium strength , trivial force , low sustain , trivial tolerance , medium dexterity , trivial speed , low precision , trivial reaction , high intelligence , trivial memory , medium processing , low reasoning , medium constitution , trivial healing , trivial fortitude , low vitality , high luck
 seed : 6692911464
+=======================
+IPC 829
+cinematic picture , clothed  , Pale skin , Grey hair , Human born on 2018, subrace Eastern Human , Female , height 5'4" , Black eyes , Right handed , medium strength , trivial force , low sustain , trivial tolerance , concerning dexterity , trivial speed , low precision , medium reaction , low intelligence , trivial memory , trivial processing , low reasoning , concerning constitution , trivial healing , low fortitude , low vitality , high luck
+seed : 6692911364
