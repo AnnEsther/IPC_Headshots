@@ -4329,3 +4329,7 @@ seed : 6692921564
 IPC 542
 cinematic picture , clothed  , White skin , Black hair , Human born on 2018, subrace Mythical Human , Female , height 5'5" , Red eyes , Right handed , medium strength , low force , trivial sustain , trivial tolerance , concerning dexterity , low speed , low precision , low reaction , concerning intelligence , low memory , medium processing , trivial reasoning , concerning constitution , low healing , low fortitude , trivial vitality , concerning luck
 seed : 6692921464
+=======================
+IPC 543
+cinematic picture , clothed  , Pale skin , Black hair , Dwarf born on 2018, subrace Mountain Dwarf , Male , height 4'1" , Brown eyes , Right handed , high strength , low force , low sustain , medium tolerance , concerning dexterity , low speed , low precision , trivial reaction , high intelligence , trivial memory , low processing , medium reasoning , high constitution , medium healing , low fortitude , low vitality , concerning luck
+seed : 6692921364
