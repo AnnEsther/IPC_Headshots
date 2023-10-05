@@ -25500,3 +25500,7 @@ seed : 6692863364
 IPC 1310
 cinematic picture , clothed  , Tan skin , Grey hair , Human born on 2018, subrace Eastern Human , Female , height 5'7" , Amber eyes , Right handed , concerning strength , low force , low sustain , trivial tolerance , low dexterity , low speed , trivial precision , trivial reaction , high intelligence , low memory , medium processing , low reasoning , concerning constitution , trivial healing , low fortitude , low vitality , high luck
 seed : 6692863264
+=======================
+IPC 1311
+cinematic picture , clothed  , Tan skin , Dark Brown hair , Dwarf born on 2018, subrace Mountain Dwarf , Male , height 4'2" , Green eyes , Right handed , high strength , medium force , low sustain , trivial tolerance , concerning dexterity , low speed , trivial precision , low reaction , high intelligence , trivial memory , medium processing , low reasoning , critical constitution , medium healing , low fortitude , medium vitality , medium luck
+seed : 6692863164
