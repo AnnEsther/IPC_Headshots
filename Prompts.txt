@@ -9067,3 +9067,7 @@ seed : 6692917964
 IPC 601
 cinematic picture , clothed  , Tan skin , Blonde hair , Dwarf born on 2018, subrace Lumber Dwarf , Female , height 3'11" , Green eyes , Right handed , critical strength , medium force , low sustain , low tolerance , high dexterity , trivial speed , low precision , low reaction , low intelligence , trivial memory , trivial processing , low reasoning , concerning constitution , trivial healing , low fortitude , low vitality , concerning luck
 seed : 6692917864
+=======================
+IPC 602
+cinematic picture , clothed  , Forest Green skin , Black hair , Orc born on 2018, subrace Swamp Orc , Male , height 6'10" , Black eyes , Right handed , concerning strength , trivial force , medium sustain , low tolerance , concerning dexterity , medium speed , low precision , trivial reaction , low intelligence , trivial memory , trivial processing , trivial reasoning , concerning constitution , low healing , trivial fortitude , low vitality , high luck
+seed : 6692917764
