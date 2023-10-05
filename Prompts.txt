@@ -24544,3 +24544,7 @@ seed : 6692887264
 IPC 1071
 cinematic picture , clothed  , Beige skin , Black hair , Elf born on 2018, subrace High Elf , Female , height 6'2" , Purple eyes , Right handed , critical strength , medium force , low sustain , medium tolerance , medium dexterity , trivial speed , trivial precision , low reaction , high intelligence , low memory , low processing , low reasoning , critical constitution , low healing , medium fortitude , medium vitality , concerning luck
 seed : 6692887164
+=======================
+IPC 1072
+cinematic picture , clothed  , Beige skin , Brown hair , Elf born on 2018, subrace High Elf , Male , height 6'4" , Purple eyes , Left handed , critical strength , medium force , low sustain , low tolerance , high dexterity , trivial speed , low precision , medium reaction , concerning intelligence , low memory , low processing , trivial reasoning , concerning constitution , low healing , low fortitude , low vitality , concerning luck
+seed : 6692887064
