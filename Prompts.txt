@@ -24348,3 +24348,7 @@ seed : 6692892164
 IPC 1022
 cinematic picture , clothed  , Brown skin , Brown hair , Human born on 2018, subrace Coastal Human , Female , height 5'9" , Green eyes , Right handed , medium strength , low force , low sustain , trivial tolerance , high dexterity , low speed , low precision , medium reaction , high intelligence , low memory , low processing , low reasoning , concerning constitution , low healing , low fortitude , trivial vitality , concerning luck
 seed : 6692892064
+=======================
+IPC 1023
+cinematic picture , clothed  , Beige skin , Brown hair , Dwarf born on 2018, subrace Mountain Dwarf , Male , height 4'2" , Blue eyes , Right handed , concerning strength , low force , low sustain , trivial tolerance , critical dexterity , low speed , low precision , medium reaction , critical intelligence , low memory , low processing , medium reasoning , concerning constitution , low healing , low fortitude , low vitality , concerning luck
+seed : 6692891964
