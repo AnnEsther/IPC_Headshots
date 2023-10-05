@@ -25004,3 +25004,7 @@ seed : 6692875764
 IPC 1186
 cinematic picture , clothed  , Light Brown skin , Red hair , Elf born on 2018, subrace Sun Elf , Female , height 6'1" , Blue eyes , Right handed , medium strength , trivial force , low sustain , trivial tolerance , high dexterity , medium speed , low precision , low reaction , high intelligence , medium memory , trivial processing , low reasoning , high constitution , medium healing , low fortitude , low vitality , concerning luck
 seed : 6692875664
+=======================
+IPC 1187
+cinematic picture , clothed  , Grey skin , Blue-Black hair , Dwarf born on 2018, subrace Volcano Dwarf , Male , height 4'3" , Grey eyes , Left handed , concerning strength , trivial force , low sustain , trivial tolerance , high dexterity , trivial speed , medium precision , low reaction , concerning intelligence , trivial memory , trivial processing , medium reasoning , concerning constitution , medium healing , trivial fortitude , low vitality , concerning luck
+seed : 6692875564
