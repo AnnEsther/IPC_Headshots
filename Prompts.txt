@@ -26320,3 +26320,7 @@ seed : 6692842864
 IPC 1515
 cinematic picture , clothed  , Forest Green skin , Dark Brown hair , Orc born on 2018, subrace Swamp Orc , Female , height 6'1" , Black eyes , Right handed , high strength , trivial force , low sustain , low tolerance , high dexterity , low speed , low precision , medium reaction , high intelligence , trivial memory , medium processing , medium reasoning , medium constitution , trivial healing , low fortitude , low vitality , concerning luck
 seed : 6692842764
+=======================
+IPC 1516
+cinematic picture , clothed  , Beige skin , Brown hair , Elf born on 2018, subrace High Elf , Male , height 6'4" , Purple eyes , Right handed , high strength , medium force , low sustain , trivial tolerance , high dexterity , low speed , low precision , trivial reaction , high intelligence , medium memory , low processing , trivial reasoning , high constitution , low healing , low fortitude , medium vitality , concerning luck
+seed : 6692842664
