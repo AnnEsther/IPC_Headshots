@@ -25432,3 +25432,7 @@ seed : 6692865064
 IPC 1293
 cinematic picture , clothed  , Grey skin , Blue-Black hair , Dwarf born on 2018, subrace Volcano Dwarf , Male , height 4'3" , Grey eyes , Right handed , concerning strength , trivial force , medium sustain , trivial tolerance , concerning dexterity , low speed , low precision , trivial reaction , high intelligence , medium memory , medium processing , trivial reasoning , concerning constitution , low healing , trivial fortitude , low vitality , concerning luck
 seed : 6692864964
+=======================
+IPC 1294
+cinematic picture , clothed  , Beige skin , Platinum hair , Human born on 2018, subrace Nordic Human , Male , height 6'0" , Icy eyes , Right handed , low strength , trivial force , trivial sustain , low tolerance , concerning dexterity , low speed , low precision , low reaction , high intelligence , low memory , trivial processing , low reasoning , concerning constitution , trivial healing , low fortitude , low vitality , high luck
+seed : 6692864864
