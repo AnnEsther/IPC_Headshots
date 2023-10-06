@@ -47,7 +47,7 @@ for row in rows:
 
     analytics.updateTxtFile("\n=======================\nIPC "+str(id)+"\n"+str(promptString)+"\ntime : "+current_time)
 
-    # print("    IPC "+ str(id)+ " at "+current_time)
+    print("    IPC "+ str(id)+ " at "+current_time)
     # print(promptString)
     # print(seed)
 
@@ -55,7 +55,7 @@ for row in rows:
     r = stableDiffusionApi.generate(promptString, seed)
     stableDiffusionApi.saveImage(r, id)
 
-    print("   -----------------")
+    #print("   -----------------")
 
     gitRepo.update(id)
 
